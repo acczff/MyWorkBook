@@ -3,4 +3,7 @@
     <string name="edit_message">Enter a Message</string>
     <string name="button_send">Send</string>
     <string name="title_activity_display_message">My Message</string>
+    <string name="action_search">搜索</string>
+    <string name="action_setting">设置</string>
+    <string name="action_return">返回</string>
 </resources>

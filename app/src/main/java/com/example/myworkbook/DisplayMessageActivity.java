@@ -18,5 +18,10 @@ public class DisplayMessageActivity extends AppCompatActivity {
         String message = intent.getStringExtra("2552");
         tv_message.setText(message);
         tv_message.setTextSize(40);
+
     }
+
+
+
+
 }
